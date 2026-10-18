@@ -7,10 +7,10 @@ I'm a postgraduate computer applications student interested in software developm
 
 ## About Me
 
-- 🎓 Pursuing MCA at IIIT Vadodara (2025–2028)
-- 🔬 Research contributor to *Tree-MIBE: Adapting Multi-Channel Broadcast Encryption for Tree-Based Group Key Management*
-- 💻 Interested in software engineering, databases, and secure systems
-- 🧩 Practicing Data Structures and Algorithms on LeetCode
+- Pursuing MCA at IIIT Vadodara (2025–2028)
+- Research contributor to *Tree-MIBE: Adapting Multi-Channel Broadcast Encryption for Tree-Based Group Key Management*
+- Interested in software engineering, databases, and secure systems
+- Practicing Data Structures and Algorithms on LeetCode
 
 ## Technical Skills
 
