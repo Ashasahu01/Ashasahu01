@@ -14,7 +14,9 @@ I'm a postgraduate computer applications student interested in software developm
 
 ## Technical Skills
 
-**Languages:** C++, Java, Python, JavaScript, SQL
+**Languages:** C, C++, Java, Python, JavaScript, SQL
+
+**Frontend:** React
 
 **Backend & Databases:** Node.js, Express.js, PostgreSQL
 
